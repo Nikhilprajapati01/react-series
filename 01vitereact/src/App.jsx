@@ -1,9 +1,10 @@
+import Chai from "./Chai"
 
 function App() {
   
 
   return (
-    <h1>nikhil . react learning</h1>
+    <Chai/>
      
   )
 }
