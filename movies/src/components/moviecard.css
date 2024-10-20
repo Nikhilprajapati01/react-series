@@ -1,0 +1,22 @@
+.container{
+    width: 250px;
+    height: 550px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: grey;
+   
+}
+ .container img{
+    width: 100%;
+ }
+
+ .title{
+    font-size: 30px;
+    font-weight: 600;
+
+ }
+ .year{
+    font-size: 20px;
+ }

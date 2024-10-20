@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header{
+    padding: 10px 0px ;
+    width: 100%;
+    background-color: aqua;
+}
+
+.header h1{
+   text-align: center;
+}

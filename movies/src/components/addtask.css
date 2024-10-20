@@ -1,0 +1,46 @@
+.inp-btn{
+    display: flex;
+    gap: 20px;
+}
+
+.inp-btn input{
+    padding: 9px;
+    
+}
+
+button{
+    padding: 5px 15px;
+    font-size: 20px;
+    background-color: aqua;
+    list-style: none;
+}
+.task-data{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.data{
+    background-color: gray;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    border-radius: 12px;
+    
+}
+.datastatic{
+   gap: 20rem;
+   margin-left: 20px;
+    display: flex;
+}
+.datadynamic{
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+   
+  
+}
+.datadynamic div{
+    width: 33%;
+}
